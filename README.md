@@ -1,9 +1,9 @@
 # Information_Retrieval
 iamge Retrieval
 
-** input:   the controlled vocabulary **
+** input:   the controlled vocabulary **
 
-** output:   retrieval the relevant images **
+** output:   retrieval the relevant images **
 
 1. the function:
 2. the string-string correction                        - using Damerau-Levenshtein distance
