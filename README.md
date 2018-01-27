@@ -18,8 +18,7 @@ the result:
 
 **output: the value of similarity and the corresponding image**
 
-###### The smallest headin
-the main idea :
+## the main idea :
 1. use the inputed vocabulary compare with each known image
 2. get the value of similarity
 3. ranking
