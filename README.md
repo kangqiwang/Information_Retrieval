@@ -8,4 +8,4 @@ the Synonyms - build our own dictionary, accuatually can get information from In
 the image retrieval - similarity : Cosine , Jaccard
 the object distance in image - similarity : Cosine , Jaccard
 
-[[https://github.com/kangqiwang/Information_Retrieval/blob/master/Untitled.png]]
+![alt text](https://github.com/kangqiwang/Information_Retrieval/blob/master/Untitled.png)
