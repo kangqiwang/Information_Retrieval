@@ -15,3 +15,12 @@ iamge Retrieval
 the result:
 
 ![alt text](https://github.com/kangqiwang/Information_Retrieval/blob/master/Untitled.png)
+
+**output: the value of similarity and the corresponding image**
+
+###### The smallest headin
+the main idea :
+1. use the inputed vocabulary compare with each known image
+2. get the value of similarity
+3. ranking
+4. output
