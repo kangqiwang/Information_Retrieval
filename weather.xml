@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<weather>
+    <sunny>
+        <sun></sun>
+    </sunny>
+    <rainy>
+        <rain></rain>
+        <lightning></lightning>
+    </rainy>
+    <cloudy>
+        <cloud></cloud>
+    </cloudy>
+</weather>

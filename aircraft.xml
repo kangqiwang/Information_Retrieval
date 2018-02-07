@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<aircraft>
+    <bag_aircraft>
+        <hotairballoon></hotairballoon>
+    </bag_aircraft>
+    <plane>
+        <airplane></airplane>
+    </plane>
+    <rotorcraft>
+        <helicopter></helicopter>
+    </rotorcraft>
+	<vehicle_thrust>
+		<rocket>
+		</rocket>
+	</vehicle_thrust>
+</aircraft>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<grocery>
+    <food>
+        <pie></pie>
+		<pizza></pizza>
+		<hotdog></hotdog>
+		<hamburger></hamburger>
+    </food>
+    <drink>
+        <soda></soda>
+    </drink>
+	<sauce>
+		<ketchup></ketchup>
+		<mustard></mustard>
+	</sauce>
+</grocery>
+
+
+
+

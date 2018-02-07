@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<accessory>
+    <hat>
+		<baseballcap></baseballcap>
+		<wizardhat></wizardhat>
+		<vikinghat></vikinghat>
+		<piratehat></piratehat>
+		<chefhat></chefhat>
+		<crown></crown>
+		<bennie></bennie>
+		<wintercap></wintercap>
+    </hat>
+    <glasses>
+        <sunglasses></sunglasses>
+        <purpleglasses></purpleglasses>
+	</glasses>
+	<sport_equipment>
+		<baseballbat></baseballbat>
+		<baseballglove></baseballglove>
+		<tennisballracket></tennisballracket>
+	</sport_equipment>
+</accessory>
+
+
+
+

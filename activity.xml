@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<activity>
+    <outdoor_facility>
+        <toy>
+			<bouncy></bouncy>
+			<sandbox></sandbox>
+			<climbing_frame>
+				<swing></swing>
+				<slide></slide>
+			</climbing_frame>
+			<flight_toy>
+				<kite></kite>
+				<balloons></balloons>
+			</flight_toy>
+		</toy>
+		<party>
+			<gril></gril>
+			<tent></tent>
+			<table></table>
+		</party>
+		
+    </outdoor_facility>
+	<sport>
+		<outdoor_tools>
+			<artifical>
+				<shovel></shovel>
+				<pail></pail>
+			</artifical>
+			<nature>
+				<fire></fire>
+			</nature>
+		</outdoor_tools>
+		<ball_sport>
+			<football></football>
+			<baseball></baseball>
+			<beachball></beachball>
+			<basketball></basketball>
+			<soccerball></soccerball>
+			<tennisball></tennisball>
+		</ball_sport>
+		<disc_sport>
+			<frisbee></frisbee>
+		</disc_sport>
+	</sport>
+</activity>
+
+
+
+

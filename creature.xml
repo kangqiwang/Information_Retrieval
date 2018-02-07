@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<creature>
+    <plant>
+        <tree>
+			<pinetree></pinetree>
+			<oaktree></oaktree>
+			<appletree></appletree>
+		</tree>
+    </plant>
+    <animals>
+        <reptile>
+			<snake></snake>
+		</reptile>
+        <bird>
+			<waterfowl>
+				<duck></duck>
+			</waterfowl>
+			<owl></owl>
+		</bird>
+		<mammals>
+			<bear></bear>
+			<pet>
+				<cat></cat>
+				<dog></dog>
+			</pet>
+			<human>
+			<girl></girl><boy></boy>
+			</human>
+		</mammals>
+    </animals>
+</creature>
+
+
+
+
