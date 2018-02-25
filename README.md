@@ -1,6 +1,10 @@
 # Information_Retrieval
 iamge Retrieval
 
+## background
+
+it implements the retrieval the relevant images based on the controlled vocabulary. it will rank the image and output the similarity based on Cosine Similarity. the programming also implements the spelling error correction. 
+
 **input: the controlled vocabulary**
 
 **output: retrieval the relevant images**
