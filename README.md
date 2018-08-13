@@ -1,6 +1,6 @@
 # Information_Retrieval
 
-## iamge Retrieval
+## image Retrieval
 
 ## background
 
